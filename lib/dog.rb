@@ -12,9 +12,9 @@ class Dog
     @@all
   end
   
-  def clear.all
-    @@all.clear
-  end
+ # def clear.all
+ #   @@all.clear
+#  end
   
   
 end
