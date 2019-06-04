@@ -13,6 +13,9 @@ class Dog
     @@all
   end
   
+  def all
+    
+  end
  # def clear.all
  #   @@all.clear
 #  end
