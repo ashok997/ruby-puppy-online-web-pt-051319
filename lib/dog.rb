@@ -1,3 +1,5 @@
+require 'pry'
+
 class Dog
   @@all =[]
   
@@ -10,6 +12,7 @@ class Dog
  
   def all
     @@all
+    binding.pry
   end
   
  # def clear.all
