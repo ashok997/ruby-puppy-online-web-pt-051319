@@ -16,9 +16,10 @@ class Dog
   def all
     @@all.to_s
   end
- # def clear.all
- #   @@all.clear
-#  end
+ 
+  def clear.all
+   @@all.clear
+  end
   
   
 end
