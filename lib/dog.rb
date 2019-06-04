@@ -1,4 +1,7 @@
 class Dog
+  @@ all =[]
+  
+  
   
   
   
