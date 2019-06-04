@@ -10,9 +10,8 @@ class Dog
     @@all << self
   end
  
-  def self.all
+  def all
     @@all
-    binding.pry
   end
   
  # def clear.all
